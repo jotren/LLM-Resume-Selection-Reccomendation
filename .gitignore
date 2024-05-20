@@ -1,6 +1,7 @@
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/
 /palmer-penguins/.ipynb_checkpoints/
+.virtual_documents
 
 # Python bytecode files
 __pycache__/
@@ -8,3 +9,4 @@ __pycache__/
 # Specific directories
 *.csv
 *.joblib
+*.json
